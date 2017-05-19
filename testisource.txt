@@ -3,4 +3,5 @@ while(index++ < 10)
 {
 	DoStuff();
 	DoStuff2();
+	DoStuff3();
 }
